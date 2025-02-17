@@ -2,7 +2,7 @@
 
 **`Docente-SENAC-DF / Desenvolvedor FullStack`**
 
-Me chamo Wellington Castro, tenho 35 anos e sou natural do Brasília-DF. Formado em Análise e Desenvolvimento de Sistemas. Pós-Graduado em Engenharia de Software. Sou apaixonado por tecnologia e compartilho meus conhecimentos ministrando aulas atualmente no SENAC-DF.
+Me chamo Wellington Castro, tenho 35 anos e sou natural de Brasília-DF. Formado em Análise e Desenvolvimento de Sistemas. Pós-Graduado em Engenharia de Software. Sou apaixonado por tecnologia e compartilho meus conhecimentos ministrando aulas atualmente no SENAC-DF.
 
 ---
 
