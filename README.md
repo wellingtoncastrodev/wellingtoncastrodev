@@ -1,8 +1,14 @@
 # 🧑‍💻 Wellington Castro 👨‍💻
 
-**`Docente-SENAC-DF / Desenvolvedor FullStack`**
+**`Desenvolvedor | Engenheiro de Software | Professor`**
 
-Me chamo Wellington Castro, tenho 35 anos e sou natural de Brasília-DF. Formado em Análise e Desenvolvimento de Sistemas. Pós-Graduado em Engenharia de Software. Sou apaixonado por tecnologia e compartilho meus conhecimentos ministrando aulas atualmente no SENAC-DF.
+Me chamo Wellington, tenho 35 anos e sou natural de Brasília-DF. Apaixonado por tecnologia e inovação, sou formado em Análise e Desenvolvimento de Sistemas e pós-graduado em Engenharia de Software. Como sócio-fundador da Agência Novice, atuo na criação de soluções digitais estratégicas, transformando ideias em realidade através do código.
+
+Além disso, sou docente no SENAC-DF, onde compartilho conhecimento e preparo novos profissionais para o mercado de tecnologia. Acredito que a programação vai além das linhas de código - ela molda o futuro e impulsiona a transformação digital.
+
+🚀 Código, inovação e ensino: esses são os pilares que me movem!
+
+🔗 Conecte-se comigo e vamos construir juntos o futuro da tecnologia!
 
 ---
 
